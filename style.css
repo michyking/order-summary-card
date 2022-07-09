@@ -120,7 +120,7 @@ p {
 
 @media (max-width: 375px) {
   body {
-    background: url(/images/pattern-background-mobile.svg);
+    background: url(images/pattern-background-mobile.svg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
